@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <uexplugins>
     <plugin
-        uexName="uexDevice" version="3.0.6" build="6">
-        <info>6.Android6.0支持获取wifi mac地址</info>
+        uexName="uexDevice" version="3.0.8" build="2017091901">
+        <info>8.修改SharedPreferences的读写权限</info>
+        <build>7.开启关闭屏幕常亮失效</build>
+        <build>6.Android6.0支持获取wifi mac地址</build>
         <build>5.修复多次截图都是同一张图片的问题</build>
         <build>4.解决多次截屏失效的问题</build>
         <build>3.添加判断功能是否开启，以及打开设置界面接口</build>
